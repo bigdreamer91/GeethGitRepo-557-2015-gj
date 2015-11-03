@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "18189BB6184E008B8FCA3789FE81921A175EA781",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C0E5610C6B358143CD4B5CE2BE0F6534507E4FDF" : 0,
+    "18189BB6184E008B8FCA3789FE81921A175EA781" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "36DCF535-6B90-4506-8A2F-966EA02B2608",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C0E5610C6B358143CD4B5CE2BE0F6534507E4FDF" : "HCI-557-CG\/",
+    "18189BB6184E008B8FCA3789FE81921A175EA781" : "project_557_2015_tg\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HCI557_Multi_Texture",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Homework_4\/p1\/HCI557_Multi_Texture.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tsgao\/project_557_2015_tg.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "18189BB6184E008B8FCA3789FE81921A175EA781"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rafael-radkowski\/HCI-557-CG.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C0E5610C6B358143CD4B5CE2BE0F6534507E4FDF"
+    }
+  ]
+}
